@@ -1,0 +1,8 @@
+.admin-dash-sessions{
+    font-size: 2rem;
+}
+.admin-browserschart{
+    justify-content:space-between;
+    align-items: center;
+    display: flex;
+}
